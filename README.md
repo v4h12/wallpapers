@@ -4,12 +4,12 @@
 
 ## Note
 
-This is my personal collection, some are edited, some arent, some stolen
-I'll add more as time goes by. If there are some wallpapers I might use myself that you recommend, it'll be added.
+This is my personal collection, some are edited, some arent, some stolen.
+I'll add more as time goes by. If you want to add some of your own and if I'd use them myself, it'll be added.
 
 ## Structure
 
-Wallpapers are organised by a rough categorization. A handful of previews per directory:
+Wallpapers are organised by a rough categorization, here's a few previews per directory:
 
 ### ascii
 
@@ -20,8 +20,8 @@ Wallpapers are organised by a rough categorization. A handful of previews per di
 ### digital
 
 ![blorange](digital/blorange.jpg)
-![worm-trip](digital/worm-trip.png)
-![nord-moon](digital/nord-moon.jpg)
+![worm-trip](digital/worm-trip.jpg)
+![nord-moon](digital/nord-moon.png)
 
 ### linux
 
